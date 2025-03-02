@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "979249169301",
+    "project_id": "customerdata-18a74",
+    "storage_bucket": "customerdata-18a74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979249169301:android:be149356921c97fe176c9c",
+        "android_client_info": {
+          "package_name": "com.example.sleep_care_collections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DUbAEiGqFLbwToV9E-YSYZRPPMDs-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979249169301:android:e0f5bbd5b6aa76cd176c9c",
+        "android_client_info": {
+          "package_name": "com.example.system_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DUbAEiGqFLbwToV9E-YSYZRPPMDs-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979249169301:android:76f69d56a52f6067176c9c",
+        "android_client_info": {
+          "package_name": "com.example.system_projet_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6DUbAEiGqFLbwToV9E-YSYZRPPMDs-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
